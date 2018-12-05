@@ -1,6 +1,6 @@
 spring:
   rabbitmq:
-    host: www.mirrorming.cn
-    port: 5672
-    username: mirror
-    password: a12344321
+    host: xxx
+    port: xxx
+    username: xxx
+    password: xxx
